@@ -47,33 +47,423 @@ The final grade will be based principally on 3 quizzes. Performance on the homew
 Calendar
 --------
 
-| LEC # | TOPICS | LECTURERS | KEY DATES |
-| --- | --- | --- | --- |
-| {{< td-colspan 4 >}}**I. Tissue environment of the implanted biomaterial: unit cell processes**{{< /td-colspan >}} ||||
-| 1 | Survey of clinical cases of biomaterials-tissue interactions | Spector, Yannas | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Tissue structures and unit cell processes {{< br >}}{{< br >}} Integrins and adhesion proteins {{< br >}}{{< br >}}  | Spector | &nbsp; |
-| 3 | Unit cell processes comprising the healing response | Spector | Homework 1 due |
-| 4 | Unit cell processes underlying tissue engineering | Spector | Homework 2 and 3 due |
-| 5 | Structure and function of naturally occurring ECMs | Yannas | &nbsp; |
-| 6 | ECM does not regenerate spontaneously | Yannas | Homework 4 due |
-| 7 | Quiz 1 | &nbsp; |
-| {{< td-colspan 4 >}}**II. Cell-surface interactions**{{< /td-colspan >}} ||||
-| 8 | Analysis of surfaces of biomaterials and protein adsorption | Spector | &nbsp; |
-| 9 | Phenotype changes following adhesion on biomaterials | Yannas | &nbsp; |
-| 10 | Structural determinants of biologically active materials | Yannas | Homework 5 and 6 due |
-| 11 | Methodology for cell-surface interactions | Yannas | &nbsp; |
-| 12 | Cell-scaffold interactions during regeneration | Yannas | &nbsp; |
-| 13 | Noncooperative cell-surface interactions | Yannas | &nbsp; |
-| 14 | From randomness to cooperativity | Yannas | Homework 7 and 8 due |
-| 15 | Quiz 2 | &nbsp; |
-| {{< td-colspan 4 >}}**III. _In vivo_ and clinical case studies**{{< /td-colspan >}} ||||
-| 16 | Tissue response to implants; biocompatibility | Spector | &nbsp; |
-| 17 | Epithelialization (epidermal regeneration) and endothelialization of vascular prostheses | Spector | &nbsp; |
-| 18 | _In vivo_ synthesis of skin | Yannas | &nbsp; |
-| 19 | _In vivo_ synthesis of peripheral nerve | Yannas | &nbsp; |
-| 20 | Rules for synthesis of tissues and organs | Yannas | &nbsp; |
-| 21 | Joints and dental tissues: prosthetic replacement | Spector | Homework 9 due |
-| 22 | Implants for bone regeneration | Spector | &nbsp; |
-| 23 | Regeneration of soft musculoskeletal tissues | Spector | &nbsp; |
-| 24 | Biomaterial applications in the heart and other organs | Spector | &nbsp; |
-| 25 | Quiz 3 | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+LECTURERS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**I. Tissue environment of the implanted biomaterial: unit cell processes**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Survey of clinical cases of biomaterials-tissue interactions
+{{< tdclose >}}
+{{< tdopen >}}
+Spector, Yannas
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tissue structures and unit cell processes
+
+Integrins and adhesion proteins
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Spector
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Unit cell processes comprising the healing response
+{{< tdclose >}}
+{{< tdopen >}}
+Spector
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Unit cell processes underlying tissue engineering
+{{< tdclose >}}
+{{< tdopen >}}
+Spector
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 and 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Structure and function of naturally occurring ECMs
+{{< tdclose >}}
+{{< tdopen >}}
+Yannas
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+ECM does not regenerate spontaneously
+{{< tdclose >}}
+{{< tdopen >}}
+Yannas
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**II. Cell-surface interactions**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Analysis of surfaces of biomaterials and protein adsorption
+{{< tdclose >}}
+{{< tdopen >}}
+Spector
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Phenotype changes following adhesion on biomaterials
+{{< tdclose >}}
+{{< tdopen >}}
+Yannas
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Structural determinants of biologically active materials
+{{< tdclose >}}
+{{< tdopen >}}
+Yannas
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 and 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Methodology for cell-surface interactions
+{{< tdclose >}}
+{{< tdopen >}}
+Yannas
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Cell-scaffold interactions during regeneration
+{{< tdclose >}}
+{{< tdopen >}}
+Yannas
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Noncooperative cell-surface interactions
+{{< tdclose >}}
+{{< tdopen >}}
+Yannas
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+From randomness to cooperativity
+{{< tdclose >}}
+{{< tdopen >}}
+Yannas
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 7 and 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**III. _In vivo_ and clinical case studies**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Tissue response to implants; biocompatibility
+{{< tdclose >}}
+{{< tdopen >}}
+Spector
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Epithelialization (epidermal regeneration) and endothelialization of vascular prostheses
+{{< tdclose >}}
+{{< tdopen >}}
+Spector
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+_In vivo_ synthesis of skin
+{{< tdclose >}}
+{{< tdopen >}}
+Yannas
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+_In vivo_ synthesis of peripheral nerve
+{{< tdclose >}}
+{{< tdopen >}}
+Yannas
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Rules for synthesis of tissues and organs
+{{< tdclose >}}
+{{< tdopen >}}
+Yannas
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Joints and dental tissues: prosthetic replacement
+{{< tdclose >}}
+{{< tdopen >}}
+Spector
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 9 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Implants for bone regeneration
+{{< tdclose >}}
+{{< tdopen >}}
+Spector
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Regeneration of soft musculoskeletal tissues
+{{< tdclose >}}
+{{< tdopen >}}
+Spector
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Biomaterial applications in the heart and other organs
+{{< tdclose >}}
+{{< tdopen >}}
+Spector
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
