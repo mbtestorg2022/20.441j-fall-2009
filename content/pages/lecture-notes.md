@@ -189,7 +189,7 @@ Analysis of surfaces of biomaterials and protein adsorption
 Spector
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7MB]({{< baseurl >}}/resources/mit20_441jf09_lec08_ms))
+([PDF - 1.7MB]({{< baseurl >}}/resources/mit20_441jf09_lec08_ms))
 {{< tdclose >}}
 
 {{< trclose >}}
