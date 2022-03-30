@@ -6,6 +6,7 @@ description: Lecture presentation on biomaterials-tissue interactions, tissue st
   in vitro.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-441j-biomaterials-tissue-interactions-fall-2009/b40c6209118136c3b2f1a19e2ab133de_MIT20_441JF09_lec02b_ms.pdf
 file_type: application/pdf
+parent_uid: 10ee7baf-ff91-ea7d-5ba3-0f86d9e3456c
 resourcetype: Document
 title: Tools for Understanding the Molecular, Cellular, and Physiological Bases of
   the Tissue Response to Implants

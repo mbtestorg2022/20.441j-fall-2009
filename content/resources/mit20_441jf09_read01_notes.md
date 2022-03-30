@@ -5,6 +5,7 @@ description: 'Lecture notes on clinical cases of biomaterials-tissue interaction
   definitions, and applications of medical devices.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-441j-biomaterials-tissue-interactions-fall-2009/d9c5576a81d178853a539bbf7b85237d_MIT20_441JF09_read01_notes.pdf
 file_type: application/pdf
+parent_uid: 4119e0aa-103b-feda-8d48-4b951dae918c
 resourcetype: Document
 title: 'Survey of Clinical Cases of Biomaterials-Tissue Interactions: The Paradigm'
 uid: d9c5576a-81d1-7885-3a53-9bbf7b85237d
